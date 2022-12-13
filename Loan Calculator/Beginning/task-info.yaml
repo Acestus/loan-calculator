@@ -64,6 +64,9 @@ files:
     if __name__ == '__main__':
         LoanCalcTest('creditcalc.creditcalc').run_tests()
   learner_created: false
-feedback_link: https://hyperskill.org/projects/90/stages/500/implement#comment
-status: Unchecked
-record: -1
+feedback_link: https://hyperskill.org/learn/step/8002#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 07 Dec 2022 05:42:14 UTC"
+record: 1
