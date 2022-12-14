@@ -10,6 +10,7 @@ parser.add_argument("--periods", type=int)
 parser.add_argument("--interest", type=float)
 parser.add_argument("--payment", type=int)
 
+
 type = parser.parse_args().type
 principal = parser.parse_args().principal
 periods = parser.parse_args().periods
